@@ -1,0 +1,11 @@
+{
+    "songData": {
+        "songName": "Testing",
+        "songBPM": 120
+    },
+
+    "chartData": {
+        "step1": 0,
+        "step2": 0
+    }
+}
